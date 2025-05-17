@@ -24,4 +24,4 @@ Currently based in Tokyo 🇯🇵, I provide technical support and backend solut
 
 ---
 
-📫 Feel free to reach out or connect!
+😊 Feel free to reach out or connect! 
