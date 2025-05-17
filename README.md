@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi there, I'm 𝒉𝒂𝒏𝒂!
 
-<!--
-**Iktahana/Iktahana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend engineer with over 10 years of experience in Python 🐍, starting from the Python 2 era.  
+My journey into programming began with Minecraft modding ⛏️, which sparked a lifelong passion for building things with code.
 
-Here are some ideas to get you started:
+I specialize in developing scalable and maintainable backend systems using FastAPI ⚡, Flask, and Django.  
+Currently based in Tokyo 🇯🇵, I provide technical support and backend solutions to real-world businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Languages & Communication
+- 🇯🇵 Japanese: Sub-Native  
+- 🇨🇳 Chinese: Native  
+- 🇺🇸 English: Technical communication ready  
+
+### 🔧 Technologies I work with
+- **Languages**: Python, Bash, TypeScript
+- **Frameworks**: FastAPI, Flask, Django
+- **DevOps**: Docker, GCP, GitHub Actions
+- **Databases**: PostgreSQL, Redis, MongoDB
+
+### 🌱 What I enjoy
+- Open source contributions 🛠️
+- Clean code and documentation ✍️
+- Supporting developer communities 🤝
+
+---
+
+📫 Feel free to reach out or connect!
