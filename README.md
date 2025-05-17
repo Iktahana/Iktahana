@@ -12,7 +12,7 @@ Currently based in Tokyo 🇯🇵, I provide technical support and backend solut
 - 🇺🇸 English: Technical communication ready  
 
 ### 🔧 Technologies I work with
-- **Languages**: Python, Go, Java
+- **Languages**: Python, Go, React
 - **Frameworks**: FastAPI, Flask
 - **DevOps**: Docker, GCP, GitHub Actions
 - **Databases**: PostgreSQL, Redis, MongoDB
