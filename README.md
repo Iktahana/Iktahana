@@ -6,11 +6,6 @@ My journey into programming began with Minecraft modding ⛏️, which sparked a
 I specialize in developing scalable and maintainable backend systems using FastAPI ⚡, Flask, and Django.  
 Currently based in Tokyo 🇯🇵, I provide technical support and backend solutions to real-world businesses.
 
-### 🌍 Languages & Communication
-- 🇯🇵 Japanese: Sub-Native  
-- 🇨🇳 Chinese: Native  
-- 🇺🇸 English: Technical communication ready  
-
 ### 🔧 Technologies I work with
 - **Languages**: Python, Go, React
 - **Frameworks**: FastAPI, Flask
