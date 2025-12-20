@@ -8,9 +8,9 @@ Currently based in Tokyo 🇯🇵, I provide technical support and backend solut
 
 ### 🔧 Technologies I work with
 - **Languages**: Python, Go, React
-- **Frameworks**: FastAPI, Flask
+- **Frameworks**: GIN, FastAPI, Flask
 - **DevOps**: Docker, GCP, GitHub Actions
-- **Databases**: PostgreSQL, Redis, MongoDB
+- **Databases**: Redis, MongoDB, PostgreSQL
 
 ### 🌱 What I enjoy
 - Open source contributions 🛠️
