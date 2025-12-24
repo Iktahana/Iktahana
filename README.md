@@ -9,8 +9,9 @@ These days, I prefer working with Golang.
 - **DevOps**: Docker, GCP, DigitalOcean
 - **Databases**: MongoDB, Redis
 
-X.com: https://x.com/iktahana
-iktahana.com: https://iktahana.com
+### My homepages
+- X.com: https://x.com/iktahana
+- iktahana.com: https://iktahana.com
 
 ---
 
