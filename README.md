@@ -1,22 +1,16 @@
-## 👋 Hi there, I'm 𝒉𝒂𝒏𝒂!
+## Hey there
 
-I'm a backend engineer with over 10 years of experience in Python 🐍, starting from the Python 2 era.  
-My journey into programming began with Minecraft modding ⛏️, which sparked a lifelong passion for building things with code.
-
-I specialize in developing scalable and maintainable backend systems using FastAPI ⚡, Flask, and Django.  
-Currently based in Tokyo 🇯🇵, I provide technical support and backend solutions to real-world businesses.
+I’m a backend engineer with over 10+ years of experience in Python, dating back to the Python 2 era.
+These days, I prefer working with Golang.
 
 ### 🔧 Technologies I work with
-- **Languages**: Python, Go, React
+- **Languages**: Go, Python, React
 - **Frameworks**: GIN, FastAPI, Flask
-- **DevOps**: Docker, GCP, GitHub Actions
-- **Databases**: Redis, MongoDB, PostgreSQL
+- **DevOps**: Docker, GCP, DigitalOcean
+- **Databases**: MongoDB, Redis
 
-### 🌱 What I enjoy
-- Open source contributions 🛠️
-- Clean code and documentation ✍️
-- Supporting developer communities 🤝
-
+X.com: https://x.com/iktahana
+iktahana.com: https://iktahana.com
 ---
 
 😊 Feel free to reach out or connect! 
