@@ -1,7 +1,8 @@
 ## Hey there
 
-I’m a backend engineer with over 10+ years of experience in Python, dating back to the Python 2 era.
-These days, I prefer working with Golang.
+I’m a backend engineer with over 10+ years of experience in *Python*, dating back to the Python 2 era.
+
+These days, I prefer working with *Golang*.
 
 ### 🔧 Technologies I work with
 - **Languages**: Go, Python, React
